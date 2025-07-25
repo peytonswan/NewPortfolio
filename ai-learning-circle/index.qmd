@@ -1,0 +1,69 @@
+---
+title: "🤖 AI Learning Circle"
+format: html
+---
+
+# Welcome!
+
+👩‍🏫 **Members: L.Cordova, V.Pham, M.McKissack, F.Agbo** 📅 **Semester**: Summer 2025\
+📍 **Location**: Virtual
+
+------------------------------------------------------------------------
+
+## 📅 Weekly Topics
+
+| Week | Topic | Material |
+|:-----------------|:------------------------------|-----------------------|
+| 1 | Introduction | outline \| slides |
+| 2 | Prompt Engineering and Integration Brainstorming | [outline](content/meeting-2.qmd) \| [slides](slides/meeting-2.qmd){target="_blank"} |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+| 6 |  |  |
+
+------------------------------------------------------------------------
+
+## 🎯 Objectives
+
+**Learning Objectives**
+
+- Desire to identify and evaluate AI tools appropriate for integration into curriculum, especially for introductory courses.
+- Interest in ethical usage of generative AI and understanding its underlying logic.
+- Aim to connect AI tools across disciplines and ensure accessibility.
+- Desire to understand and improve the impact of AI on student engagement and learning outcomes.
+- Explore pedagogical best practices for classroom AI integration.
+
+**Specific Goals for This Learning Circle**
+
+- Create a toolkit for AI integration, including course shells, syllabi, and sample activities.
+- Develop frameworks or criteria for when and how to use AI in coursework.
+- Support institutional sharing by preparing material for broader faculty adoption.
+- Gather tools and ideas to support faculty across different schools and disciplines.
+
+**Teaching Enhancements**
+
+- Enhance student engagement and equip them with decision-making skills on when to use AI.
+- Learn practical strategies from peers for classroom AI usage and support accessibility.
+- Improve structured AI integration into lectures, activities, and assignments.
+- Increase confidence and effectiveness in teaching with AI.
+
+**Scholarship Enhancements**
+
+- Leverage the experience to support scholarly communication and faculty collaboration.
+- Use the knowledge to better support faculty and student understanding of AI methods.
+- Potential use of AI for creative endeavors, even if not current research focus.
+- Build confidence in articulating practical implications of AI in education.
+
+**Service Enhancements**
+
+- Contribute to institutional initiatives like “AI Across the Curriculum.”
+- Facilitate collaboration between different campuses and programs.
+- Engage faculty and help shape the broader institutional understanding and application of AI.
+- Provide concrete case scenarios to support assessment frameworks for AI learning outcomes.
+
+
+------------------------------------------------------------------------
+
+## 🚀 Resources/Links
+
+-   ...

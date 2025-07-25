@@ -1,0 +1,76 @@
+---
+title: "Testing Tutor"
+format: html
+sidebar: research
+---
+
+# Testing Tutor: Advancing Software Testing Education
+
+**Testing Tutor** is a research project I co-developed with my colleagues at University of Alabama and Augusta University and several undergraduate and graduate students to revolutionize the way students learn and practice software testing. It offers a dynamic environment where learners receive structured, actionable feedback while developing deeper conceptual understandings of testing principles.
+
+*Testing Tutor reflects my passion for improving software engineering education by bridging the gap between practice and understanding through innovative, research-based tools.*
+
+## Project Overview
+
+Testing Tutor addresses a fundamental challenge in computing education:\
+\> How do we help students not just "write tests," but actually **think like testers**?
+
+The system presents students with programming exercises and evaluates their test cases against underlying program behaviors. Rather than simply telling students what they missed, Testing Tutor encourages deeper learning through **conceptual inquiry-based feedback**.
+
+## Key Features
+
+-   **Two Feedback Modes**:
+
+    -   **Traditional Detailed Feedback**: Similar to industrial tools, showing missing test cases and gaps in code coverage.
+    -   **Inquiry-Based Conceptual Feedback**: A novel mode that poses questions prompting students to reflect on their testing logic and gaps.
+
+-   **Automated Evaluation**:
+
+    Students' test cases are automatically analyzed for correctness, completeness, and redundancy.
+
+-   **Student Growth Focus**:\
+    Emphasizes **metacognitive skills** — helping students understand *why* a test case is valuable, not just *whether* it passes.
+
+-   **Instructor Dashboard**:\
+    Enables educators to track student progress and adjust instruction based on common misconceptions.
+
+## Research Outcomes
+
+In our study published in the *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education*, we found:
+
+-   Students who received conceptual feedback achieved **higher code coverage**.
+
+-   Students wrote **fewer redundant or unnecessary tests**.
+
+-   Students earned **higher overall programming grades**.
+
+-   Students developed a **stronger conceptual model** of software testing.
+
+-   [Read the full research paper](https://dl.acm.org/doi/10.1145/3408877.3432417)
+
+------------------------------------------------------------------------
+
+## Why It Matters
+
+Many traditional tools provide detailed but overwhelming feedback, encouraging trial-and-error rather than understanding.\
+Testing Tutor helps close that gap by:
+
+-   Teaching **test case design** as a creative, critical thinking activity.
+-   Encouraging **self-explanation** and **diagnostic reasoning**.
+-   Reducing reliance on guess-and-check strategies common among novice testers.
+
+------------------------------------------------------------------------
+
+## Future Directions
+
+-   **Expansion to More Programming Languages**: Supporting JavaScript, C++, and Python beyond current capabilities.
+-   **Deeper Integration with Learning Management Systems (LMS)**: Embedding Testing Tutor directly into course workflows.
+-   **Gamified Feedback Loops**: Adding achievement systems to reward thoughtful test design and conceptual breakthroughs.
+
+------------------------------------------------------------------------
+
+## Learn More
+
+-   [Testing Tutor Research Publication](https://dl.acm.org/doi/10.1145/3408877.3432417)
+
+------------------------------------------------------------------------

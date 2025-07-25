@@ -1,0 +1,143 @@
+---
+title: "🎓 For Students"
+format: html
+page-layout: full
+sidebar: research
+---
+
+# Interested in Research?
+
+I regularly advise undergraduate and graduate students on research projects across a range of computing topics. If you're a student interested in conducting research with me, read on to learn more about my research areas, expectations, and how to get started.
+
+Let’s turn your curiosity into original research!
+
+## 🧠 My Research Interests
+
+I supervise projects in a variety of areas including:
+
+-   🎓 **Computing Education Research (CER)**
+-   🤖 **Artificial Intelligence in Education**
+-   🧪 **Software Testing and Feedback Systems**
+-   🌐 **Interdisciplinary Applications of Computing**
+-   🐢 **Conservation Technology and Data Science**
+
+Learn more about my ongoing and past projects. I also welcome proposals in adjacent or new areas of computing—if you have an idea, let’s talk!
+
+## 📝 Getting Started: Proposing a Research Project
+
+Students interested in research should begin by drafting a proposal and reaching out to me *before the end of the semester prior* to the semester in which they would like to begin. Proposals should follow this general outline:
+
+### 📋 Proposal Requirements
+
+-   **Credit Hours**: Typically 2 or 4 credits depending on time commitment. (Non-credit research through a scholarship is also possible.)
+
+-   **Initial Reading List**: Include foundational articles or papers that identify a gap in knowledge.
+
+-   **Introductory Project**: A small starting task to demonstrate your understanding and commitment, such as replicating prior work.
+
+-   **Project Scope**: Define what you aim to accomplish.
+
+-   **Weekly Meetings**: You’ll meet with me regularly during the semester. These meetings are where we think, plan, and reflect together. As you come up with your proposal, consider:
+
+    > What do you hope to accomplish in our weekly meetings? How can I best support your growth as a researcher?
+
+    To help you frame your thinking, here are some common activities we often engage in:
+
+    ```         
+    - Discuss literature and readings
+    - Generate hypotheses or goals
+    - Design methodology for data collection or experimentation
+    - Analyze results and plan next steps
+    - Review and revise your writing
+    ```
+
+### 📄 Research Output
+
+By the end of the semester, students are expected to:
+
+-   Submit a research paper in a format consistent with computing research publications
+-   Graduate students should aim for a conference or journal submission to disseminate their work and should minimally present at TechBytes
+-   Undergraduate students present at the **Student Scholarship Recognition Day (SSRD)**, at **TechBytes** events, and should also aim for a conference or journal submission if possible
+
+## 💡 Getting Started on a Proposal
+
+Before reaching out to begin an Individual Research Experience for credit or scholarship, you’ll need to develop a research idea that aligns with your interests and has potential for meaningful investigation. This guide will help you get started.
+
+### 🔍 Step 1: Explore Research Areas
+
+Start by considering broad themes that interest you. Some areas I actively work in include:
+
+- **🎓 Computing Education Research (CER)**
+- **🤖 AI in Education & Generative Feedback**
+- **🧪 Software Testing & Feedback Systems**
+- **🌐 Interdisciplinary Applications of Computing**
+- **🐢 Conservation Technology & Data Science**
+
+### 🧠 Step 2: Identify a Problem or Question
+
+Ask yourself:
+
+- What bothers you in your field of study? What’s inefficient, unclear, or underexplored?
+- Have you encountered a concept in a class that you'd like to understand better?
+- Is there a tool or system that could be improved with computing?
+- Can AI or data science contribute to a social, environmental, or educational cause you care about?
+
+Jot down 2–3 questions or problems you’re curious about. Try to keep them broad at this stage.
+
+### 📘 Step 3: Do a Quick Literature Scan
+
+Search Google Scholar, the ACM Digital Library, or arXiv to see:
+
+- What others have done on this topic
+- How they’ve framed their research questions
+- What methods they’ve used
+
+This doesn’t have to be exhaustive—just enough to ensure your idea is novel or builds meaningfully on existing work.
+
+### ✍️ Step 4: Draft an Initial Proposal (1–2 pages)
+
+Bring a short, informal proposal when you first meet with me. It should include:
+
+#### 1. **Working Title**
+A descriptive placeholder is fine. e.g., *“Using LLMs to Support Early CS Students with Auto-Graded Feedback”*
+
+#### 2. **Motivation**
+Why is this topic important, timely, or interesting? What gap or problem are you hoping to address?
+
+#### 3. **Research Questions or Hypothesis**
+State your main inquiry clearly. Examples:
+
+- *Can GPT-4 give helpful feedback on beginner Python assignments?*
+- *How do students interpret different types of automated feedback?*
+
+#### 4. **Planned Approach**
+How will you explore this? Think about:
+
+- Data sources (real or synthetic)
+- Tools (e.g., GPT-4, Python, survey tools)
+- Methods (e.g., prompt engineering, code analysis, surveys)
+
+#### 5. **Dissemination Ideas**
+Would you want to aim for a paper? Poster? Prototype? Public data release? Let’s set early goals.
+
+#### 6. **What You’ll Need**
+What help, access, or tools do you anticipate needing (e.g., GPT access, data, IRB approval)?
+
+
+
+## ✅ What Happens Next?
+
+Once you’ve drafted your initial idea, [email me](mailto:lpcordova@willamette.edu) and we’ll set up a meeting. We’ll discuss:
+
+- Feasibility
+- Relevance to your interests and my expertise
+- Milestones and weekly schedule
+- Deliverables and expectations
+
+If we agree to move forward, I’ll help you refine the proposal and outline a formal plan for the term. Here's a [sample](./sample-project.qmd) of what a fleshed out project might look like.
+
+
+
+## 📅 Tip: Reach Out Early
+
+Please contact me **before the end of the previous term that you wish to conduct research** to give us time to plan. Proposals that involve human subjects (surveys, interviews, etc.) may require **IRB approval**, which can take time.

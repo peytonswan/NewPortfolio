@@ -1,0 +1,15 @@
+---
+date: "2025-08-25"
+format: clean-revealjs
+---
+
+::: callout-tip
+## Announcements
+
+None today. Hurray!
+
+:::
+
+--- 
+
+{{< include ../content/meeting-2.qmd >}}

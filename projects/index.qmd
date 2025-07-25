@@ -1,0 +1,37 @@
+---
+title: "Research Projects"
+format: html
+---
+
+# 🚀 Current Projects
+
+## 🧠 Pedalogical: Reimagining Education with AI
+
+**Pedalogical** is an AI-driven initiative that personalizes education by dynamically generating assignments based on each student’s comprehension.\
+Developed collaboratively with undergraduate students at Willamette University, it leverages generative AI to enhance learning **and** reduce instructor workload.
+
+➡️ [Learn more about Pedalogical](pedalogical.qmd)
+
+
+## 🛠️ Testing Tutor: Advancing Software Testing Education
+
+**Testing Tutor** is a web-based learning platform designed to help students master software testing principles.\
+It delivers both **traditional feedback** and **inquiry-based conceptual feedback**, promoting deeper understanding and critical thinking.\
+Our research demonstrates that conceptual feedback significantly boosts student outcomes.
+
+➡️ [Learn more about Testing Tutor](testingtutor.qmd)
+
+
+## 🐢 Oregon Turtle Project: Technology for Conservation
+
+The **Oregon Turtle Project** bridges computer science and ecology, supporting conservation efforts for Oregon’s native freshwater turtles.\
+Through digital tools developed with students, we streamline ecological data collection, making it easier to monitor populations and habitats.
+
+➡️ [Learn more about the Oregon Turtles](oregonturtles.qmd)
+
+
+## 🤝 Connect
+
+Interested in collaborating or learning more? Feel free to [reach out](mailto:lpcordova@willamette.edu) — I’d love to hear from you!
+
+If you're a student, check out my [Individual Research Experience](individual-research-experience.qmd) page.

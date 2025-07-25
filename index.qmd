@@ -1,0 +1,14 @@
+---
+title: "RESEARCH"
+format: html
+---
+
+Welcome to my research page! My work explores the intersection of **computing education**, **artificial intelligence**, and **technology for societal and environmental good**. I'm passionate about empowering students through innovative tools, educational research, and real-world technology projects.
+
+## 🔬 Research Interests
+
+-   🎓 **Computing Education Research (CER)**
+-   🤖 **Artificial Intelligence in Education**
+-   🧪 **Software Testing and Feedback Systems**
+-   🌐 **Interdisciplinary Applications of Computing**
+-   🐢 **Conservation Technology and Data Science**
