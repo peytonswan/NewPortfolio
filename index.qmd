@@ -1,14 +1,22 @@
 ---
-title: "RESEARCH"
-format: html
+title: "Peyton Swan"
+subtitle: "Data Science and Computer Science Professional"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lucascordova/
+    - icon: github
+      text: Github
+      href: https://github.com/LucasCordova
 ---
 
-Welcome to my research page! My work explores the intersection of **computing education**, **artificial intelligence**, and **technology for societal and environmental good**. I'm passionate about empowering students through innovative tools, educational research, and real-world technology projects.
+::: {#hero-heading}
 
-## 🔬 Research Interests
+CHANGE ME
+:::
 
--   🎓 **Computing Education Research (CER)**
--   🤖 **Artificial Intelligence in Education**
--   🧪 **Software Testing and Feedback Systems**
--   🌐 **Interdisciplinary Applications of Computing**
--   🐢 **Conservation Technology and Data Science**

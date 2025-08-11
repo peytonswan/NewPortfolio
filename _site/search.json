@@ -1,178 +1,10 @@
 [
   {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#case-study-not-all-chatbots-teach",
-    "href": "ai-learning-circle/slides/meeting-2.html#case-study-not-all-chatbots-teach",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Case Study: Not All Chatbots Teach",
-    "text": "Case Study: Not All Chatbots Teach\n\nRecent study: Not All Chatbots Teach\n\nCompared a structured, outcome-aligned chatbot vs. a generic LLM wrapper\nKey finding: Structured AI tools significantly improved student performance and clarity in software testing tasks"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#implications-for-teaching",
-    "href": "ai-learning-circle/slides/meeting-2.html#implications-for-teaching",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Implications for Teaching",
-    "text": "Implications for Teaching\n\nStructure and scaffolding matter\nAlignment with learning outcomes is crucial\nPromotes metacognition and reduces surface-level AI use"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#reflect-discuss",
-    "href": "ai-learning-circle/slides/meeting-2.html#reflect-discuss",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Reflect & Discuss",
-    "text": "Reflect & Discuss\nQuestions:\n\nWhere have you seen AI help or hinder student learning?\nWhat risks or opportunities do you see in using AI inside your own course context?"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#using-prompts-as-guardrails",
-    "href": "ai-learning-circle/slides/meeting-2.html#using-prompts-as-guardrails",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Using Prompts as Guardrails",
-    "text": "Using Prompts as Guardrails\n\nInstructor-written prompts can:\n\nSet boundaries (academic integrity, tone, focus)\nScaffold learning (step-by-step guidance, Socratic questioning)\nEncourage metacognition (reflect on process)"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#prompt-examples",
-    "href": "ai-learning-circle/slides/meeting-2.html#prompt-examples",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Prompt Examples",
-    "text": "Prompt Examples\n\n“Ask the student questions to deepen their understanding of X.”\n“You are a peer reviewer. Give friendly but rigorous feedback on their code.”\n“Use the Feynman Technique to help the student clarify their concept.”"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-1",
-    "href": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-1",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Reflect & Discuss",
-    "text": "Reflect & Discuss\nQuestions:\n\nWhat kind of prompts might support your students’ learning?\nHow can prompt templates become reusable teaching assets?"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#major-providers",
-    "href": "ai-learning-circle/slides/meeting-2.html#major-providers",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Major Providers",
-    "text": "Major Providers\n\n\n\n\n\n\n\nProvider\nNotes\n\n\n\n\nOpenAI\nGPT-4o, API access, supports embeddings, used widely\n\n\nGemini\nGoogle’s LLM, integrated into Google Workspace, strong data privacy controls\n\n\nAnthropic Claude\nEmphasizes safety and guardrails\n\n\nCohere, Mistral, HuggingFace\nResearch/community focused, fine-tuning support"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#building-custom-chatbots-for-canvas",
-    "href": "ai-learning-circle/slides/meeting-2.html#building-custom-chatbots-for-canvas",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Building Custom Chatbots for Canvas",
-    "text": "Building Custom Chatbots for Canvas\n🛠️ Options include:\n\nOpenAI Functions + Flask/FastAPI backend\n\nGoogle Cloud Vertex AI with Gemini + Dialogflow\n\nCustom wrappers using LangChain or Semantic Kernel\n\nEmbed into Canvas via LTI tools, iframes, or static tools"
-  },
-  {
-    "objectID": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-2",
-    "href": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-2",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Reflect & Discuss",
-    "text": "Reflect & Discuss\nQuestions:\n\nWhat role could a chatbot play in your course?\nWould it be formative, summative, exploratory?\nWhat barriers do you foresee?"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html",
-    "href": "ai-learning-circle/content/meeting-2.html",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Peyton Swan",
     "section": "",
-    "text": "Pedagogical Use Cases of AI\n\nPrompt Engineering Strategies for Learning\n\nExploring Generative AI Providers for Canvas Integration\n\nGroup Reflection & Discussion\n\n\n\n\nRecent study: Not All Chatbots Teach\n\nCompared a structured, outcome-aligned chatbot vs. a generic LLM wrapper\nKey finding: Structured AI tools significantly improved student performance and clarity in software testing tasks\n\n\n\n\n\nStructure and scaffolding matter\nAlignment with learning outcomes is crucial\nPromotes metacognition and reduces surface-level AI use\n\n\n\n\nQuestions:\n\nWhere have you seen AI help or hinder student learning?\nWhat risks or opportunities do you see in using AI inside your own course context?"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#case-study-not-all-chatbots-teach",
-    "href": "ai-learning-circle/content/meeting-2.html#case-study-not-all-chatbots-teach",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "",
-    "text": "Recent study: Not All Chatbots Teach\n\nCompared a structured, outcome-aligned chatbot vs. a generic LLM wrapper\nKey finding: Structured AI tools significantly improved student performance and clarity in software testing tasks"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#implications-for-teaching",
-    "href": "ai-learning-circle/content/meeting-2.html#implications-for-teaching",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "",
-    "text": "Structure and scaffolding matter\nAlignment with learning outcomes is crucial\nPromotes metacognition and reduces surface-level AI use"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#reflect-discuss",
-    "href": "ai-learning-circle/content/meeting-2.html#reflect-discuss",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "",
-    "text": "Questions:\n\nWhere have you seen AI help or hinder student learning?\nWhat risks or opportunities do you see in using AI inside your own course context?"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#using-prompts-as-guardrails",
-    "href": "ai-learning-circle/content/meeting-2.html#using-prompts-as-guardrails",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Using Prompts as Guardrails",
-    "text": "Using Prompts as Guardrails\n\nInstructor-written prompts can:\n\nSet boundaries (academic integrity, tone, focus)\nScaffold learning (step-by-step guidance, Socratic questioning)\nEncourage metacognition (reflect on process)"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#prompt-examples",
-    "href": "ai-learning-circle/content/meeting-2.html#prompt-examples",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Prompt Examples",
-    "text": "Prompt Examples\n\n“Ask the student questions to deepen their understanding of X.”\n“You are a peer reviewer. Give friendly but rigorous feedback on their code.”\n“Use the Feynman Technique to help the student clarify their concept.”"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#reflect-discuss-1",
-    "href": "ai-learning-circle/content/meeting-2.html#reflect-discuss-1",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Reflect & Discuss",
-    "text": "Reflect & Discuss\nQuestions:\n\nWhat kind of prompts might support your students’ learning?\nHow can prompt templates become reusable teaching assets?"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#major-providers",
-    "href": "ai-learning-circle/content/meeting-2.html#major-providers",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Major Providers",
-    "text": "Major Providers\n\n\n\n\n\n\n\nProvider\nNotes\n\n\n\n\nOpenAI\nGPT-4o, API access, supports embeddings, used widely\n\n\nGemini\nGoogle’s LLM, integrated into Google Workspace, strong data privacy controls\n\n\nAnthropic Claude\nEmphasizes safety and guardrails\n\n\nCohere, Mistral, HuggingFace\nResearch/community focused, fine-tuning support"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#building-custom-chatbots-for-canvas",
-    "href": "ai-learning-circle/content/meeting-2.html#building-custom-chatbots-for-canvas",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Building Custom Chatbots for Canvas",
-    "text": "Building Custom Chatbots for Canvas\n🛠️ Options include:\n\nOpenAI Functions + Flask/FastAPI backend\n\nGoogle Cloud Vertex AI with Gemini + Dialogflow\n\nCustom wrappers using LangChain or Semantic Kernel\n\nEmbed into Canvas via LTI tools, iframes, or static tools"
-  },
-  {
-    "objectID": "ai-learning-circle/content/meeting-2.html#reflect-discuss-2",
-    "href": "ai-learning-circle/content/meeting-2.html#reflect-discuss-2",
-    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
-    "section": "Reflect & Discuss",
-    "text": "Reflect & Discuss\nQuestions:\n\nWhat role could a chatbot play in your course?\nWould it be formative, summative, exploratory?\nWhat barriers do you foresee?"
-  },
-  {
-    "objectID": "projects/individual-research-experience.html",
-    "href": "projects/individual-research-experience.html",
-    "title": "🎓 For Students",
-    "section": "",
-    "text": "I regularly advise undergraduate and graduate students on research projects across a range of computing topics. If you’re a student interested in conducting research with me, read on to learn more about my research areas, expectations, and how to get started.\nLet’s turn your curiosity into original research!\n\n\nI supervise projects in a variety of areas including:\n\n🎓 Computing Education Research (CER)\n🤖 Artificial Intelligence in Education\n🧪 Software Testing and Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology and Data Science\n\nLearn more about my ongoing and past projects. I also welcome proposals in adjacent or new areas of computing—if you have an idea, let’s talk!\n\n\n\nStudents interested in research should begin by drafting a proposal and reaching out to me before the end of the semester prior to the semester in which they would like to begin. Proposals should follow this general outline:\n\n\n\nCredit Hours: Typically 2 or 4 credits depending on time commitment. (Non-credit research through a scholarship is also possible.)\nInitial Reading List: Include foundational articles or papers that identify a gap in knowledge.\nIntroductory Project: A small starting task to demonstrate your understanding and commitment, such as replicating prior work.\nProject Scope: Define what you aim to accomplish.\nWeekly Meetings: You’ll meet with me regularly during the semester. These meetings are where we think, plan, and reflect together. As you come up with your proposal, consider:\n\nWhat do you hope to accomplish in our weekly meetings? How can I best support your growth as a researcher?\n\nTo help you frame your thinking, here are some common activities we often engage in:\n- Discuss literature and readings\n- Generate hypotheses or goals\n- Design methodology for data collection or experimentation\n- Analyze results and plan next steps\n- Review and revise your writing\n\n\n\n\nBy the end of the semester, students are expected to:\n\nSubmit a research paper in a format consistent with computing research publications\nGraduate students should aim for a conference or journal submission to disseminate their work and should minimally present at TechBytes\nUndergraduate students present at the Student Scholarship Recognition Day (SSRD), at TechBytes events, and should also aim for a conference or journal submission if possible\n\n\n\n\n\nBefore reaching out to begin an Individual Research Experience for credit or scholarship, you’ll need to develop a research idea that aligns with your interests and has potential for meaningful investigation. This guide will help you get started.\n\n\nStart by considering broad themes that interest you. Some areas I actively work in include:\n\n🎓 Computing Education Research (CER)\n🤖 AI in Education & Generative Feedback\n🧪 Software Testing & Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology & Data Science\n\n\n\n\nAsk yourself:\n\nWhat bothers you in your field of study? What’s inefficient, unclear, or underexplored?\nHave you encountered a concept in a class that you’d like to understand better?\nIs there a tool or system that could be improved with computing?\nCan AI or data science contribute to a social, environmental, or educational cause you care about?\n\nJot down 2–3 questions or problems you’re curious about. Try to keep them broad at this stage.\n\n\n\nSearch Google Scholar, the ACM Digital Library, or arXiv to see:\n\nWhat others have done on this topic\nHow they’ve framed their research questions\nWhat methods they’ve used\n\nThis doesn’t have to be exhaustive—just enough to ensure your idea is novel or builds meaningfully on existing work.\n\n\n\nBring a short, informal proposal when you first meet with me. It should include:\n\n\nA descriptive placeholder is fine. e.g., “Using LLMs to Support Early CS Students with Auto-Graded Feedback”\n\n\n\nWhy is this topic important, timely, or interesting? What gap or problem are you hoping to address?\n\n\n\nState your main inquiry clearly. Examples:\n\nCan GPT-4 give helpful feedback on beginner Python assignments?\nHow do students interpret different types of automated feedback?\n\n\n\n\nHow will you explore this? Think about:\n\nData sources (real or synthetic)\nTools (e.g., GPT-4, Python, survey tools)\nMethods (e.g., prompt engineering, code analysis, surveys)\n\n\n\n\nWould you want to aim for a paper? Poster? Prototype? Public data release? Let’s set early goals.\n\n\n\nWhat help, access, or tools do you anticipate needing (e.g., GPT access, data, IRB approval)?\n\n\n\n\n\nOnce you’ve drafted your initial idea, email me and we’ll set up a meeting. We’ll discuss:\n\nFeasibility\nRelevance to your interests and my expertise\nMilestones and weekly schedule\nDeliverables and expectations\n\nIf we agree to move forward, I’ll help you refine the proposal and outline a formal plan for the term. Here’s a sample of what a fleshed out project might look like.\n\n\n\nPlease contact me before the end of the previous term that you wish to conduct research to give us time to plan. Proposals that involve human subjects (surveys, interviews, etc.) may require IRB approval, which can take time."
-  },
-  {
-    "objectID": "projects/individual-research-experience.html#my-research-interests",
-    "href": "projects/individual-research-experience.html#my-research-interests",
-    "title": "🎓 For Students",
-    "section": "",
-    "text": "I supervise projects in a variety of areas including:\n\n🎓 Computing Education Research (CER)\n🤖 Artificial Intelligence in Education\n🧪 Software Testing and Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology and Data Science\n\nLearn more about my ongoing and past projects. I also welcome proposals in adjacent or new areas of computing—if you have an idea, let’s talk!"
-  },
-  {
-    "objectID": "projects/individual-research-experience.html#getting-started-proposing-a-research-project",
-    "href": "projects/individual-research-experience.html#getting-started-proposing-a-research-project",
-    "title": "🎓 For Students",
-    "section": "",
-    "text": "Students interested in research should begin by drafting a proposal and reaching out to me before the end of the semester prior to the semester in which they would like to begin. Proposals should follow this general outline:\n\n\n\nCredit Hours: Typically 2 or 4 credits depending on time commitment. (Non-credit research through a scholarship is also possible.)\nInitial Reading List: Include foundational articles or papers that identify a gap in knowledge.\nIntroductory Project: A small starting task to demonstrate your understanding and commitment, such as replicating prior work.\nProject Scope: Define what you aim to accomplish.\nWeekly Meetings: You’ll meet with me regularly during the semester. These meetings are where we think, plan, and reflect together. As you come up with your proposal, consider:\n\nWhat do you hope to accomplish in our weekly meetings? How can I best support your growth as a researcher?\n\nTo help you frame your thinking, here are some common activities we often engage in:\n- Discuss literature and readings\n- Generate hypotheses or goals\n- Design methodology for data collection or experimentation\n- Analyze results and plan next steps\n- Review and revise your writing\n\n\n\n\nBy the end of the semester, students are expected to:\n\nSubmit a research paper in a format consistent with computing research publications\nGraduate students should aim for a conference or journal submission to disseminate their work and should minimally present at TechBytes\nUndergraduate students present at the Student Scholarship Recognition Day (SSRD), at TechBytes events, and should also aim for a conference or journal submission if possible"
-  },
-  {
-    "objectID": "projects/individual-research-experience.html#getting-started-on-a-proposal",
-    "href": "projects/individual-research-experience.html#getting-started-on-a-proposal",
-    "title": "🎓 For Students",
-    "section": "",
-    "text": "Before reaching out to begin an Individual Research Experience for credit or scholarship, you’ll need to develop a research idea that aligns with your interests and has potential for meaningful investigation. This guide will help you get started.\n\n\nStart by considering broad themes that interest you. Some areas I actively work in include:\n\n🎓 Computing Education Research (CER)\n🤖 AI in Education & Generative Feedback\n🧪 Software Testing & Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology & Data Science\n\n\n\n\nAsk yourself:\n\nWhat bothers you in your field of study? What’s inefficient, unclear, or underexplored?\nHave you encountered a concept in a class that you’d like to understand better?\nIs there a tool or system that could be improved with computing?\nCan AI or data science contribute to a social, environmental, or educational cause you care about?\n\nJot down 2–3 questions or problems you’re curious about. Try to keep them broad at this stage.\n\n\n\nSearch Google Scholar, the ACM Digital Library, or arXiv to see:\n\nWhat others have done on this topic\nHow they’ve framed their research questions\nWhat methods they’ve used\n\nThis doesn’t have to be exhaustive—just enough to ensure your idea is novel or builds meaningfully on existing work.\n\n\n\nBring a short, informal proposal when you first meet with me. It should include:\n\n\nA descriptive placeholder is fine. e.g., “Using LLMs to Support Early CS Students with Auto-Graded Feedback”\n\n\n\nWhy is this topic important, timely, or interesting? What gap or problem are you hoping to address?\n\n\n\nState your main inquiry clearly. Examples:\n\nCan GPT-4 give helpful feedback on beginner Python assignments?\nHow do students interpret different types of automated feedback?\n\n\n\n\nHow will you explore this? Think about:\n\nData sources (real or synthetic)\nTools (e.g., GPT-4, Python, survey tools)\nMethods (e.g., prompt engineering, code analysis, surveys)\n\n\n\n\nWould you want to aim for a paper? Poster? Prototype? Public data release? Let’s set early goals.\n\n\n\nWhat help, access, or tools do you anticipate needing (e.g., GPT access, data, IRB approval)?"
-  },
-  {
-    "objectID": "projects/individual-research-experience.html#what-happens-next",
-    "href": "projects/individual-research-experience.html#what-happens-next",
-    "title": "🎓 For Students",
-    "section": "",
-    "text": "Once you’ve drafted your initial idea, email me and we’ll set up a meeting. We’ll discuss:\n\nFeasibility\nRelevance to your interests and my expertise\nMilestones and weekly schedule\nDeliverables and expectations\n\nIf we agree to move forward, I’ll help you refine the proposal and outline a formal plan for the term. Here’s a sample of what a fleshed out project might look like."
-  },
-  {
-    "objectID": "projects/individual-research-experience.html#tip-reach-out-early",
-    "href": "projects/individual-research-experience.html#tip-reach-out-early",
-    "title": "🎓 For Students",
-    "section": "",
-    "text": "Please contact me before the end of the previous term that you wish to conduct research to give us time to plan. Proposals that involve human subjects (surveys, interviews, etc.) may require IRB approval, which can take time."
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nCHANGE ME"
   },
   {
     "objectID": "projects/testingtutor.html",
@@ -266,6 +98,265 @@
     "text": "Willamette University News Article on Pedalogical"
   },
   {
+    "objectID": "projects/individual-research-experience.html",
+    "href": "projects/individual-research-experience.html",
+    "title": "🎓 For Students",
+    "section": "",
+    "text": "I regularly advise undergraduate and graduate students on research projects across a range of computing topics. If you’re a student interested in conducting research with me, read on to learn more about my research areas, expectations, and how to get started.\nLet’s turn your curiosity into original research!\n\n\nI supervise projects in a variety of areas including:\n\n🎓 Computing Education Research (CER)\n🤖 Artificial Intelligence in Education\n🧪 Software Testing and Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology and Data Science\n\nLearn more about my ongoing and past projects. I also welcome proposals in adjacent or new areas of computing—if you have an idea, let’s talk!\n\n\n\nStudents interested in research should begin by drafting a proposal and reaching out to me before the end of the semester prior to the semester in which they would like to begin. Proposals should follow this general outline:\n\n\n\nCredit Hours: Typically 2 or 4 credits depending on time commitment. (Non-credit research through a scholarship is also possible.)\nInitial Reading List: Include foundational articles or papers that identify a gap in knowledge.\nIntroductory Project: A small starting task to demonstrate your understanding and commitment, such as replicating prior work.\nProject Scope: Define what you aim to accomplish.\nWeekly Meetings: You’ll meet with me regularly during the semester. These meetings are where we think, plan, and reflect together. As you come up with your proposal, consider:\n\nWhat do you hope to accomplish in our weekly meetings? How can I best support your growth as a researcher?\n\nTo help you frame your thinking, here are some common activities we often engage in:\n- Discuss literature and readings\n- Generate hypotheses or goals\n- Design methodology for data collection or experimentation\n- Analyze results and plan next steps\n- Review and revise your writing\n\n\n\n\nBy the end of the semester, students are expected to:\n\nSubmit a research paper in a format consistent with computing research publications\nGraduate students should aim for a conference or journal submission to disseminate their work and should minimally present at TechBytes\nUndergraduate students present at the Student Scholarship Recognition Day (SSRD), at TechBytes events, and should also aim for a conference or journal submission if possible\n\n\n\n\n\nBefore reaching out to begin an Individual Research Experience for credit or scholarship, you’ll need to develop a research idea that aligns with your interests and has potential for meaningful investigation. This guide will help you get started.\n\n\nStart by considering broad themes that interest you. Some areas I actively work in include:\n\n🎓 Computing Education Research (CER)\n🤖 AI in Education & Generative Feedback\n🧪 Software Testing & Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology & Data Science\n\n\n\n\nAsk yourself:\n\nWhat bothers you in your field of study? What’s inefficient, unclear, or underexplored?\nHave you encountered a concept in a class that you’d like to understand better?\nIs there a tool or system that could be improved with computing?\nCan AI or data science contribute to a social, environmental, or educational cause you care about?\n\nJot down 2–3 questions or problems you’re curious about. Try to keep them broad at this stage.\n\n\n\nSearch Google Scholar, the ACM Digital Library, or arXiv to see:\n\nWhat others have done on this topic\nHow they’ve framed their research questions\nWhat methods they’ve used\n\nThis doesn’t have to be exhaustive—just enough to ensure your idea is novel or builds meaningfully on existing work.\n\n\n\nBring a short, informal proposal when you first meet with me. It should include:\n\n\nA descriptive placeholder is fine. e.g., “Using LLMs to Support Early CS Students with Auto-Graded Feedback”\n\n\n\nWhy is this topic important, timely, or interesting? What gap or problem are you hoping to address?\n\n\n\nState your main inquiry clearly. Examples:\n\nCan GPT-4 give helpful feedback on beginner Python assignments?\nHow do students interpret different types of automated feedback?\n\n\n\n\nHow will you explore this? Think about:\n\nData sources (real or synthetic)\nTools (e.g., GPT-4, Python, survey tools)\nMethods (e.g., prompt engineering, code analysis, surveys)\n\n\n\n\nWould you want to aim for a paper? Poster? Prototype? Public data release? Let’s set early goals.\n\n\n\nWhat help, access, or tools do you anticipate needing (e.g., GPT access, data, IRB approval)?\n\n\n\n\n\nOnce you’ve drafted your initial idea, email me and we’ll set up a meeting. We’ll discuss:\n\nFeasibility\nRelevance to your interests and my expertise\nMilestones and weekly schedule\nDeliverables and expectations\n\nIf we agree to move forward, I’ll help you refine the proposal and outline a formal plan for the term. Here’s a sample of what a fleshed out project might look like.\n\n\n\nPlease contact me before the end of the previous term that you wish to conduct research to give us time to plan. Proposals that involve human subjects (surveys, interviews, etc.) may require IRB approval, which can take time."
+  },
+  {
+    "objectID": "projects/individual-research-experience.html#my-research-interests",
+    "href": "projects/individual-research-experience.html#my-research-interests",
+    "title": "🎓 For Students",
+    "section": "",
+    "text": "I supervise projects in a variety of areas including:\n\n🎓 Computing Education Research (CER)\n🤖 Artificial Intelligence in Education\n🧪 Software Testing and Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology and Data Science\n\nLearn more about my ongoing and past projects. I also welcome proposals in adjacent or new areas of computing—if you have an idea, let’s talk!"
+  },
+  {
+    "objectID": "projects/individual-research-experience.html#getting-started-proposing-a-research-project",
+    "href": "projects/individual-research-experience.html#getting-started-proposing-a-research-project",
+    "title": "🎓 For Students",
+    "section": "",
+    "text": "Students interested in research should begin by drafting a proposal and reaching out to me before the end of the semester prior to the semester in which they would like to begin. Proposals should follow this general outline:\n\n\n\nCredit Hours: Typically 2 or 4 credits depending on time commitment. (Non-credit research through a scholarship is also possible.)\nInitial Reading List: Include foundational articles or papers that identify a gap in knowledge.\nIntroductory Project: A small starting task to demonstrate your understanding and commitment, such as replicating prior work.\nProject Scope: Define what you aim to accomplish.\nWeekly Meetings: You’ll meet with me regularly during the semester. These meetings are where we think, plan, and reflect together. As you come up with your proposal, consider:\n\nWhat do you hope to accomplish in our weekly meetings? How can I best support your growth as a researcher?\n\nTo help you frame your thinking, here are some common activities we often engage in:\n- Discuss literature and readings\n- Generate hypotheses or goals\n- Design methodology for data collection or experimentation\n- Analyze results and plan next steps\n- Review and revise your writing\n\n\n\n\nBy the end of the semester, students are expected to:\n\nSubmit a research paper in a format consistent with computing research publications\nGraduate students should aim for a conference or journal submission to disseminate their work and should minimally present at TechBytes\nUndergraduate students present at the Student Scholarship Recognition Day (SSRD), at TechBytes events, and should also aim for a conference or journal submission if possible"
+  },
+  {
+    "objectID": "projects/individual-research-experience.html#getting-started-on-a-proposal",
+    "href": "projects/individual-research-experience.html#getting-started-on-a-proposal",
+    "title": "🎓 For Students",
+    "section": "",
+    "text": "Before reaching out to begin an Individual Research Experience for credit or scholarship, you’ll need to develop a research idea that aligns with your interests and has potential for meaningful investigation. This guide will help you get started.\n\n\nStart by considering broad themes that interest you. Some areas I actively work in include:\n\n🎓 Computing Education Research (CER)\n🤖 AI in Education & Generative Feedback\n🧪 Software Testing & Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology & Data Science\n\n\n\n\nAsk yourself:\n\nWhat bothers you in your field of study? What’s inefficient, unclear, or underexplored?\nHave you encountered a concept in a class that you’d like to understand better?\nIs there a tool or system that could be improved with computing?\nCan AI or data science contribute to a social, environmental, or educational cause you care about?\n\nJot down 2–3 questions or problems you’re curious about. Try to keep them broad at this stage.\n\n\n\nSearch Google Scholar, the ACM Digital Library, or arXiv to see:\n\nWhat others have done on this topic\nHow they’ve framed their research questions\nWhat methods they’ve used\n\nThis doesn’t have to be exhaustive—just enough to ensure your idea is novel or builds meaningfully on existing work.\n\n\n\nBring a short, informal proposal when you first meet with me. It should include:\n\n\nA descriptive placeholder is fine. e.g., “Using LLMs to Support Early CS Students with Auto-Graded Feedback”\n\n\n\nWhy is this topic important, timely, or interesting? What gap or problem are you hoping to address?\n\n\n\nState your main inquiry clearly. Examples:\n\nCan GPT-4 give helpful feedback on beginner Python assignments?\nHow do students interpret different types of automated feedback?\n\n\n\n\nHow will you explore this? Think about:\n\nData sources (real or synthetic)\nTools (e.g., GPT-4, Python, survey tools)\nMethods (e.g., prompt engineering, code analysis, surveys)\n\n\n\n\nWould you want to aim for a paper? Poster? Prototype? Public data release? Let’s set early goals.\n\n\n\nWhat help, access, or tools do you anticipate needing (e.g., GPT access, data, IRB approval)?"
+  },
+  {
+    "objectID": "projects/individual-research-experience.html#what-happens-next",
+    "href": "projects/individual-research-experience.html#what-happens-next",
+    "title": "🎓 For Students",
+    "section": "",
+    "text": "Once you’ve drafted your initial idea, email me and we’ll set up a meeting. We’ll discuss:\n\nFeasibility\nRelevance to your interests and my expertise\nMilestones and weekly schedule\nDeliverables and expectations\n\nIf we agree to move forward, I’ll help you refine the proposal and outline a formal plan for the term. Here’s a sample of what a fleshed out project might look like."
+  },
+  {
+    "objectID": "projects/individual-research-experience.html#tip-reach-out-early",
+    "href": "projects/individual-research-experience.html#tip-reach-out-early",
+    "title": "🎓 For Students",
+    "section": "",
+    "text": "Please contact me before the end of the previous term that you wish to conduct research to give us time to plan. Proposals that involve human subjects (surveys, interviews, etc.) may require IRB approval, which can take time."
+  },
+  {
+    "objectID": "ai-learning-circle/index.html",
+    "href": "ai-learning-circle/index.html",
+    "title": "🤖 AI Learning Circle",
+    "section": "",
+    "text": "👩‍🏫 Members: L.Cordova, V.Pham, M.McKissack, F.Agbo 📅 Semester: Summer 2025\n📍 Location: Virtual\n\n\n\n\n\n\nWeek\nTopic\nMaterial\n\n\n\n\n1\nIntroduction\noutline | slides\n\n\n2\nPrompt Engineering and Integration Brainstorming\noutline | slides\n\n\n3\n\n\n\n\n4\n\n\n\n\n5\n\n\n\n\n6\n\n\n\n\n\n\n\n\n\nLearning Objectives\n\nDesire to identify and evaluate AI tools appropriate for integration into curriculum, especially for introductory courses.\nInterest in ethical usage of generative AI and understanding its underlying logic.\nAim to connect AI tools across disciplines and ensure accessibility.\nDesire to understand and improve the impact of AI on student engagement and learning outcomes.\nExplore pedagogical best practices for classroom AI integration.\n\nSpecific Goals for This Learning Circle\n\nCreate a toolkit for AI integration, including course shells, syllabi, and sample activities.\nDevelop frameworks or criteria for when and how to use AI in coursework.\nSupport institutional sharing by preparing material for broader faculty adoption.\nGather tools and ideas to support faculty across different schools and disciplines.\n\nTeaching Enhancements\n\nEnhance student engagement and equip them with decision-making skills on when to use AI.\nLearn practical strategies from peers for classroom AI usage and support accessibility.\nImprove structured AI integration into lectures, activities, and assignments.\nIncrease confidence and effectiveness in teaching with AI.\n\nScholarship Enhancements\n\nLeverage the experience to support scholarly communication and faculty collaboration.\nUse the knowledge to better support faculty and student understanding of AI methods.\nPotential use of AI for creative endeavors, even if not current research focus.\nBuild confidence in articulating practical implications of AI in education.\n\nService Enhancements\n\nContribute to institutional initiatives like “AI Across the Curriculum.”\nFacilitate collaboration between different campuses and programs.\nEngage faculty and help shape the broader institutional understanding and application of AI.\nProvide concrete case scenarios to support assessment frameworks for AI learning outcomes.\n\n\n\n\n\n\n…"
+  },
+  {
+    "objectID": "ai-learning-circle/index.html#weekly-topics",
+    "href": "ai-learning-circle/index.html#weekly-topics",
+    "title": "🤖 AI Learning Circle",
+    "section": "",
+    "text": "Week\nTopic\nMaterial\n\n\n\n\n1\nIntroduction\noutline | slides\n\n\n2\nPrompt Engineering and Integration Brainstorming\noutline | slides\n\n\n3\n\n\n\n\n4\n\n\n\n\n5\n\n\n\n\n6"
+  },
+  {
+    "objectID": "ai-learning-circle/index.html#objectives",
+    "href": "ai-learning-circle/index.html#objectives",
+    "title": "🤖 AI Learning Circle",
+    "section": "",
+    "text": "Learning Objectives\n\nDesire to identify and evaluate AI tools appropriate for integration into curriculum, especially for introductory courses.\nInterest in ethical usage of generative AI and understanding its underlying logic.\nAim to connect AI tools across disciplines and ensure accessibility.\nDesire to understand and improve the impact of AI on student engagement and learning outcomes.\nExplore pedagogical best practices for classroom AI integration.\n\nSpecific Goals for This Learning Circle\n\nCreate a toolkit for AI integration, including course shells, syllabi, and sample activities.\nDevelop frameworks or criteria for when and how to use AI in coursework.\nSupport institutional sharing by preparing material for broader faculty adoption.\nGather tools and ideas to support faculty across different schools and disciplines.\n\nTeaching Enhancements\n\nEnhance student engagement and equip them with decision-making skills on when to use AI.\nLearn practical strategies from peers for classroom AI usage and support accessibility.\nImprove structured AI integration into lectures, activities, and assignments.\nIncrease confidence and effectiveness in teaching with AI.\n\nScholarship Enhancements\n\nLeverage the experience to support scholarly communication and faculty collaboration.\nUse the knowledge to better support faculty and student understanding of AI methods.\nPotential use of AI for creative endeavors, even if not current research focus.\nBuild confidence in articulating practical implications of AI in education.\n\nService Enhancements\n\nContribute to institutional initiatives like “AI Across the Curriculum.”\nFacilitate collaboration between different campuses and programs.\nEngage faculty and help shape the broader institutional understanding and application of AI.\nProvide concrete case scenarios to support assessment frameworks for AI learning outcomes."
+  },
+  {
+    "objectID": "ai-learning-circle/index.html#resourceslinks",
+    "href": "ai-learning-circle/index.html#resourceslinks",
+    "title": "🤖 AI Learning Circle",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html",
+    "href": "ai-learning-circle/content/meeting-2.html",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "",
+    "text": "Pedagogical Use Cases of AI\n\nPrompt Engineering Strategies for Learning\n\nExploring Generative AI Providers for Canvas Integration\n\nGroup Reflection & Discussion\n\n\n\n\nRecent study: Not All Chatbots Teach\n\nCompared a structured, outcome-aligned chatbot vs. a generic LLM wrapper\nKey finding: Structured AI tools significantly improved student performance and clarity in software testing tasks\n\n\n\n\n\nStructure and scaffolding matter\nAlignment with learning outcomes is crucial\nPromotes metacognition and reduces surface-level AI use\n\n\n\n\nQuestions:\n\nWhere have you seen AI help or hinder student learning?\nWhat risks or opportunities do you see in using AI inside your own course context?"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#case-study-not-all-chatbots-teach",
+    "href": "ai-learning-circle/content/meeting-2.html#case-study-not-all-chatbots-teach",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "",
+    "text": "Recent study: Not All Chatbots Teach\n\nCompared a structured, outcome-aligned chatbot vs. a generic LLM wrapper\nKey finding: Structured AI tools significantly improved student performance and clarity in software testing tasks"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#implications-for-teaching",
+    "href": "ai-learning-circle/content/meeting-2.html#implications-for-teaching",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "",
+    "text": "Structure and scaffolding matter\nAlignment with learning outcomes is crucial\nPromotes metacognition and reduces surface-level AI use"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#reflect-discuss",
+    "href": "ai-learning-circle/content/meeting-2.html#reflect-discuss",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "",
+    "text": "Questions:\n\nWhere have you seen AI help or hinder student learning?\nWhat risks or opportunities do you see in using AI inside your own course context?"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#using-prompts-as-guardrails",
+    "href": "ai-learning-circle/content/meeting-2.html#using-prompts-as-guardrails",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Using Prompts as Guardrails",
+    "text": "Using Prompts as Guardrails\n\nInstructor-written prompts can:\n\nSet boundaries (academic integrity, tone, focus)\nScaffold learning (step-by-step guidance, Socratic questioning)\nEncourage metacognition (reflect on process)"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#prompt-examples",
+    "href": "ai-learning-circle/content/meeting-2.html#prompt-examples",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Prompt Examples",
+    "text": "Prompt Examples\n\n“Ask the student questions to deepen their understanding of X.”\n“You are a peer reviewer. Give friendly but rigorous feedback on their code.”\n“Use the Feynman Technique to help the student clarify their concept.”"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#reflect-discuss-1",
+    "href": "ai-learning-circle/content/meeting-2.html#reflect-discuss-1",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Reflect & Discuss",
+    "text": "Reflect & Discuss\nQuestions:\n\nWhat kind of prompts might support your students’ learning?\nHow can prompt templates become reusable teaching assets?"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#major-providers",
+    "href": "ai-learning-circle/content/meeting-2.html#major-providers",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Major Providers",
+    "text": "Major Providers\n\n\n\n\n\n\n\nProvider\nNotes\n\n\n\n\nOpenAI\nGPT-4o, API access, supports embeddings, used widely\n\n\nGemini\nGoogle’s LLM, integrated into Google Workspace, strong data privacy controls\n\n\nAnthropic Claude\nEmphasizes safety and guardrails\n\n\nCohere, Mistral, HuggingFace\nResearch/community focused, fine-tuning support"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#building-custom-chatbots-for-canvas",
+    "href": "ai-learning-circle/content/meeting-2.html#building-custom-chatbots-for-canvas",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Building Custom Chatbots for Canvas",
+    "text": "Building Custom Chatbots for Canvas\n🛠️ Options include:\n\nOpenAI Functions + Flask/FastAPI backend\n\nGoogle Cloud Vertex AI with Gemini + Dialogflow\n\nCustom wrappers using LangChain or Semantic Kernel\n\nEmbed into Canvas via LTI tools, iframes, or static tools"
+  },
+  {
+    "objectID": "ai-learning-circle/content/meeting-2.html#reflect-discuss-2",
+    "href": "ai-learning-circle/content/meeting-2.html#reflect-discuss-2",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Reflect & Discuss",
+    "text": "Reflect & Discuss\nQuestions:\n\nWhat role could a chatbot play in your course?\nWould it be formative, summative, exploratory?\nWhat barriers do you foresee?"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html",
+    "href": "ai-learning-circle/slides/meeting-2.html",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "",
+    "text": "Announcements\n\n\n\nNone today. Hurray!"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#case-study-not-all-chatbots-teach",
+    "href": "ai-learning-circle/slides/meeting-2.html#case-study-not-all-chatbots-teach",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Case Study: Not All Chatbots Teach",
+    "text": "Case Study: Not All Chatbots Teach\n\nRecent study: Not All Chatbots Teach\n\nCompared a structured, outcome-aligned chatbot vs. a generic LLM wrapper\nKey finding: Structured AI tools significantly improved student performance and clarity in software testing tasks"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#implications-for-teaching",
+    "href": "ai-learning-circle/slides/meeting-2.html#implications-for-teaching",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Implications for Teaching",
+    "text": "Implications for Teaching\n\nStructure and scaffolding matter\nAlignment with learning outcomes is crucial\nPromotes metacognition and reduces surface-level AI use"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#reflect-discuss",
+    "href": "ai-learning-circle/slides/meeting-2.html#reflect-discuss",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Reflect & Discuss",
+    "text": "Reflect & Discuss\nQuestions:\n\nWhere have you seen AI help or hinder student learning?\nWhat risks or opportunities do you see in using AI inside your own course context?"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#using-prompts-as-guardrails",
+    "href": "ai-learning-circle/slides/meeting-2.html#using-prompts-as-guardrails",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Using Prompts as Guardrails",
+    "text": "Using Prompts as Guardrails\n\nInstructor-written prompts can:\n\nSet boundaries (academic integrity, tone, focus)\nScaffold learning (step-by-step guidance, Socratic questioning)\nEncourage metacognition (reflect on process)"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#prompt-examples",
+    "href": "ai-learning-circle/slides/meeting-2.html#prompt-examples",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Prompt Examples",
+    "text": "Prompt Examples\n\n“Ask the student questions to deepen their understanding of X.”\n“You are a peer reviewer. Give friendly but rigorous feedback on their code.”\n“Use the Feynman Technique to help the student clarify their concept.”"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-1",
+    "href": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-1",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Reflect & Discuss",
+    "text": "Reflect & Discuss\nQuestions:\n\nWhat kind of prompts might support your students’ learning?\nHow can prompt templates become reusable teaching assets?"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#major-providers",
+    "href": "ai-learning-circle/slides/meeting-2.html#major-providers",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Major Providers",
+    "text": "Major Providers\n\n\n\n\n\n\n\nProvider\nNotes\n\n\n\n\nOpenAI\nGPT-4o, API access, supports embeddings, used widely\n\n\nGemini\nGoogle’s LLM, integrated into Google Workspace, strong data privacy controls\n\n\nAnthropic Claude\nEmphasizes safety and guardrails\n\n\nCohere, Mistral, HuggingFace\nResearch/community focused, fine-tuning support"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#building-custom-chatbots-for-canvas",
+    "href": "ai-learning-circle/slides/meeting-2.html#building-custom-chatbots-for-canvas",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Building Custom Chatbots for Canvas",
+    "text": "Building Custom Chatbots for Canvas\n🛠️ Options include:\n\nOpenAI Functions + Flask/FastAPI backend\n\nGoogle Cloud Vertex AI with Gemini + Dialogflow\n\nCustom wrappers using LangChain or Semantic Kernel\n\nEmbed into Canvas via LTI tools, iframes, or static tools"
+  },
+  {
+    "objectID": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-2",
+    "href": "ai-learning-circle/slides/meeting-2.html#reflect-discuss-2",
+    "title": "Meeting 2: Prompt Engineering and Integration Brainstorming",
+    "section": "Reflect & Discuss",
+    "text": "Reflect & Discuss\nQuestions:\n\nWhat role could a chatbot play in your course?\nWould it be formative, summative, exploratory?\nWhat barriers do you foresee?"
+  },
+  {
+    "objectID": "projects/oregonturtles.html",
+    "href": "projects/oregonturtles.html",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "The Oregon Turtle Project is an interdisciplinary initiative I worked on with Dr. Gareth Hopkins. The projectintegrates computer science and ecology in support of wildlife conservation. Focused on Oregon’s two native freshwater turtle species, the project demonstrates how technology can drive real-world environmental impact.\nThe Oregon Turtle Project reflects my belief that technology, when thoughtfully applied, can play a transformative role in solving environmental and societal challenges.\n\n\nNative turtle populations in Oregon, including the Western Pond Turtle (Actinemys marmorata) and the Western Painted Turtle (Chrysemys picta bellii), face growing threats from habitat loss, invasive species, and environmental changes.\nThe Oregon Turtle Project addresses these challenges by leveraging digital tools for efficient, accurate conservation data collection.\n\n\n\nOur mission is to:\n\nStreamline Field Data Collection: Develop mobile-friendly, digital survey tools to replace traditional paper-based methods. The Oregon Turtle Project shows how interdisciplinary collaboration can create innovative solutions to urgent conservation challenges.\nEmpower Citizen Scientists: Provide easy-to-use platforms for the public to report turtle sightings and habitat conditions.\nEnhance Data Quality and Access: Centralize ecological observations into accessible, analyzable datasets to better inform conservation efforts.\n\n\n\n\nA cornerstone of this project is student mentorship.\nThrough the Oregon Turtle Project, I mentored computer science students in:\n\nFull-stack software development for field research applications\nData science and ecological data management\nInterdisciplinary teamwork with biologists and conservationists\n\nStudents gained hands-on experience building systems that directly impact biodiversity preservation efforts.\n\n\n\nThe Oregon Turtle Project is more than a conservation tool — it is a model for how computer science can be applied beyond traditional industry contexts.\nBy bridging environmental science and technology, we are:\n\nImproving the quality of ecological research data\nReducing the administrative burden on field scientists\nCreating opportunities for public engagement in conservation\n\n\n\n\n\nExpansion to Other At-Risk Species:\nAdapting our digital tools for broader use across multiple conservation initiatives.\nIntegration with GIS Systems:\nIncorporating spatial mapping to visualize turtle habitats and migration patterns.\nPredictive Modeling:\nUsing collected data to forecast habitat threats and support proactive conservation strategies.\n\n\n\n\n\nOregon Turtles Conservation Organization"
+  },
+  {
+    "objectID": "projects/oregonturtles.html#project-overview",
+    "href": "projects/oregonturtles.html#project-overview",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "Native turtle populations in Oregon, including the Western Pond Turtle (Actinemys marmorata) and the Western Painted Turtle (Chrysemys picta bellii), face growing threats from habitat loss, invasive species, and environmental changes.\nThe Oregon Turtle Project addresses these challenges by leveraging digital tools for efficient, accurate conservation data collection."
+  },
+  {
+    "objectID": "projects/oregonturtles.html#goals-and-approach",
+    "href": "projects/oregonturtles.html#goals-and-approach",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "Our mission is to:\n\nStreamline Field Data Collection: Develop mobile-friendly, digital survey tools to replace traditional paper-based methods. The Oregon Turtle Project shows how interdisciplinary collaboration can create innovative solutions to urgent conservation challenges.\nEmpower Citizen Scientists: Provide easy-to-use platforms for the public to report turtle sightings and habitat conditions.\nEnhance Data Quality and Access: Centralize ecological observations into accessible, analyzable datasets to better inform conservation efforts."
+  },
+  {
+    "objectID": "projects/oregonturtles.html#student-engagement",
+    "href": "projects/oregonturtles.html#student-engagement",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "A cornerstone of this project is student mentorship.\nThrough the Oregon Turtle Project, I mentored computer science students in:\n\nFull-stack software development for field research applications\nData science and ecological data management\nInterdisciplinary teamwork with biologists and conservationists\n\nStudents gained hands-on experience building systems that directly impact biodiversity preservation efforts."
+  },
+  {
+    "objectID": "projects/oregonturtles.html#broader-impact",
+    "href": "projects/oregonturtles.html#broader-impact",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "The Oregon Turtle Project is more than a conservation tool — it is a model for how computer science can be applied beyond traditional industry contexts.\nBy bridging environmental science and technology, we are:\n\nImproving the quality of ecological research data\nReducing the administrative burden on field scientists\nCreating opportunities for public engagement in conservation"
+  },
+  {
+    "objectID": "projects/oregonturtles.html#future-directions",
+    "href": "projects/oregonturtles.html#future-directions",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "Expansion to Other At-Risk Species:\nAdapting our digital tools for broader use across multiple conservation initiatives.\nIntegration with GIS Systems:\nIncorporating spatial mapping to visualize turtle habitats and migration patterns.\nPredictive Modeling:\nUsing collected data to forecast habitat threats and support proactive conservation strategies."
+  },
+  {
+    "objectID": "projects/oregonturtles.html#learn-more",
+    "href": "projects/oregonturtles.html#learn-more",
+    "title": "Oregon Turtles",
+    "section": "",
+    "text": "Oregon Turtles Conservation Organization"
+  },
+  {
     "objectID": "projects/sample-project.html",
     "href": "projects/sample-project.html",
     "title": "Sample Research Project",
@@ -334,131 +425,5 @@
     "title": "Sample Research Project",
     "section": "",
     "text": "A dissemination-ready deliverable (e.g., paper, white paper, presentation)\nAnnotated dataset and reproducible experimentation code\nSummary presentation for presenting to faculty and students at TechBytes and/or practitioner audience"
-  },
-  {
-    "objectID": "projects/oregonturtles.html",
-    "href": "projects/oregonturtles.html",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "The Oregon Turtle Project is an interdisciplinary initiative I worked on with Dr. Gareth Hopkins. The projectintegrates computer science and ecology in support of wildlife conservation. Focused on Oregon’s two native freshwater turtle species, the project demonstrates how technology can drive real-world environmental impact.\nThe Oregon Turtle Project reflects my belief that technology, when thoughtfully applied, can play a transformative role in solving environmental and societal challenges.\n\n\nNative turtle populations in Oregon, including the Western Pond Turtle (Actinemys marmorata) and the Western Painted Turtle (Chrysemys picta bellii), face growing threats from habitat loss, invasive species, and environmental changes.\nThe Oregon Turtle Project addresses these challenges by leveraging digital tools for efficient, accurate conservation data collection.\n\n\n\nOur mission is to:\n\nStreamline Field Data Collection: Develop mobile-friendly, digital survey tools to replace traditional paper-based methods. The Oregon Turtle Project shows how interdisciplinary collaboration can create innovative solutions to urgent conservation challenges.\nEmpower Citizen Scientists: Provide easy-to-use platforms for the public to report turtle sightings and habitat conditions.\nEnhance Data Quality and Access: Centralize ecological observations into accessible, analyzable datasets to better inform conservation efforts.\n\n\n\n\nA cornerstone of this project is student mentorship.\nThrough the Oregon Turtle Project, I mentored computer science students in:\n\nFull-stack software development for field research applications\nData science and ecological data management\nInterdisciplinary teamwork with biologists and conservationists\n\nStudents gained hands-on experience building systems that directly impact biodiversity preservation efforts.\n\n\n\nThe Oregon Turtle Project is more than a conservation tool — it is a model for how computer science can be applied beyond traditional industry contexts.\nBy bridging environmental science and technology, we are:\n\nImproving the quality of ecological research data\nReducing the administrative burden on field scientists\nCreating opportunities for public engagement in conservation\n\n\n\n\n\nExpansion to Other At-Risk Species:\nAdapting our digital tools for broader use across multiple conservation initiatives.\nIntegration with GIS Systems:\nIncorporating spatial mapping to visualize turtle habitats and migration patterns.\nPredictive Modeling:\nUsing collected data to forecast habitat threats and support proactive conservation strategies.\n\n\n\n\n\nOregon Turtles Conservation Organization"
-  },
-  {
-    "objectID": "projects/oregonturtles.html#project-overview",
-    "href": "projects/oregonturtles.html#project-overview",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "Native turtle populations in Oregon, including the Western Pond Turtle (Actinemys marmorata) and the Western Painted Turtle (Chrysemys picta bellii), face growing threats from habitat loss, invasive species, and environmental changes.\nThe Oregon Turtle Project addresses these challenges by leveraging digital tools for efficient, accurate conservation data collection."
-  },
-  {
-    "objectID": "projects/oregonturtles.html#goals-and-approach",
-    "href": "projects/oregonturtles.html#goals-and-approach",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "Our mission is to:\n\nStreamline Field Data Collection: Develop mobile-friendly, digital survey tools to replace traditional paper-based methods. The Oregon Turtle Project shows how interdisciplinary collaboration can create innovative solutions to urgent conservation challenges.\nEmpower Citizen Scientists: Provide easy-to-use platforms for the public to report turtle sightings and habitat conditions.\nEnhance Data Quality and Access: Centralize ecological observations into accessible, analyzable datasets to better inform conservation efforts."
-  },
-  {
-    "objectID": "projects/oregonturtles.html#student-engagement",
-    "href": "projects/oregonturtles.html#student-engagement",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "A cornerstone of this project is student mentorship.\nThrough the Oregon Turtle Project, I mentored computer science students in:\n\nFull-stack software development for field research applications\nData science and ecological data management\nInterdisciplinary teamwork with biologists and conservationists\n\nStudents gained hands-on experience building systems that directly impact biodiversity preservation efforts."
-  },
-  {
-    "objectID": "projects/oregonturtles.html#broader-impact",
-    "href": "projects/oregonturtles.html#broader-impact",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "The Oregon Turtle Project is more than a conservation tool — it is a model for how computer science can be applied beyond traditional industry contexts.\nBy bridging environmental science and technology, we are:\n\nImproving the quality of ecological research data\nReducing the administrative burden on field scientists\nCreating opportunities for public engagement in conservation"
-  },
-  {
-    "objectID": "projects/oregonturtles.html#future-directions",
-    "href": "projects/oregonturtles.html#future-directions",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "Expansion to Other At-Risk Species:\nAdapting our digital tools for broader use across multiple conservation initiatives.\nIntegration with GIS Systems:\nIncorporating spatial mapping to visualize turtle habitats and migration patterns.\nPredictive Modeling:\nUsing collected data to forecast habitat threats and support proactive conservation strategies."
-  },
-  {
-    "objectID": "projects/oregonturtles.html#learn-more",
-    "href": "projects/oregonturtles.html#learn-more",
-    "title": "Oregon Turtles",
-    "section": "",
-    "text": "Oregon Turtles Conservation Organization"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Pedalogical is an AI-driven initiative that personalizes education by dynamically generating assignments based on each student’s comprehension.\nDeveloped collaboratively with undergraduate students at Willamette University, it leverages generative AI to enhance learning and reduce instructor workload.\n➡️ Learn more about Pedalogical\n\n\n\nTesting Tutor is a web-based learning platform designed to help students master software testing principles.\nIt delivers both traditional feedback and inquiry-based conceptual feedback, promoting deeper understanding and critical thinking.\nOur research demonstrates that conceptual feedback significantly boosts student outcomes.\n➡️ Learn more about Testing Tutor\n\n\n\nThe Oregon Turtle Project bridges computer science and ecology, supporting conservation efforts for Oregon’s native freshwater turtles.\nThrough digital tools developed with students, we streamline ecological data collection, making it easier to monitor populations and habitats.\n➡️ Learn more about the Oregon Turtles\n\n\n\nInterested in collaborating or learning more? Feel free to reach out — I’d love to hear from you!\nIf you’re a student, check out my Individual Research Experience page."
-  },
-  {
-    "objectID": "projects/index.html#pedalogical-reimagining-education-with-ai",
-    "href": "projects/index.html#pedalogical-reimagining-education-with-ai",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Pedalogical is an AI-driven initiative that personalizes education by dynamically generating assignments based on each student’s comprehension.\nDeveloped collaboratively with undergraduate students at Willamette University, it leverages generative AI to enhance learning and reduce instructor workload.\n➡️ Learn more about Pedalogical"
-  },
-  {
-    "objectID": "projects/index.html#testing-tutor-advancing-software-testing-education",
-    "href": "projects/index.html#testing-tutor-advancing-software-testing-education",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Testing Tutor is a web-based learning platform designed to help students master software testing principles.\nIt delivers both traditional feedback and inquiry-based conceptual feedback, promoting deeper understanding and critical thinking.\nOur research demonstrates that conceptual feedback significantly boosts student outcomes.\n➡️ Learn more about Testing Tutor"
-  },
-  {
-    "objectID": "projects/index.html#oregon-turtle-project-technology-for-conservation",
-    "href": "projects/index.html#oregon-turtle-project-technology-for-conservation",
-    "title": "Research Projects",
-    "section": "",
-    "text": "The Oregon Turtle Project bridges computer science and ecology, supporting conservation efforts for Oregon’s native freshwater turtles.\nThrough digital tools developed with students, we streamline ecological data collection, making it easier to monitor populations and habitats.\n➡️ Learn more about the Oregon Turtles"
-  },
-  {
-    "objectID": "projects/index.html#connect",
-    "href": "projects/index.html#connect",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Interested in collaborating or learning more? Feel free to reach out — I’d love to hear from you!\nIf you’re a student, check out my Individual Research Experience page."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "RESEARCH",
-    "section": "",
-    "text": "Welcome to my research page! My work explores the intersection of computing education, artificial intelligence, and technology for societal and environmental good. I’m passionate about empowering students through innovative tools, educational research, and real-world technology projects."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "RESEARCH",
-    "section": "🔬 Research Interests",
-    "text": "🔬 Research Interests\n\n🎓 Computing Education Research (CER)\n🤖 Artificial Intelligence in Education\n🧪 Software Testing and Feedback Systems\n🌐 Interdisciplinary Applications of Computing\n🐢 Conservation Technology and Data Science"
-  },
-  {
-    "objectID": "ai-learning-circle/index.html",
-    "href": "ai-learning-circle/index.html",
-    "title": "🤖 AI Learning Circle",
-    "section": "",
-    "text": "👩‍🏫 Members: L.Cordova, V.Pham, M.McKissack, F.Agbo 📅 Semester: Summer 2025\n📍 Location: Virtual\n\n\n\n\n\n\nWeek\nTopic\nMaterial\n\n\n\n\n1\nIntroduction\noutline | slides\n\n\n2\nPrompt Engineering and Integration Brainstorming\noutline | slides\n\n\n3\n\n\n\n\n4\n\n\n\n\n5\n\n\n\n\n6\n\n\n\n\n\n\n\n\n\nLearning Objectives\n\nDesire to identify and evaluate AI tools appropriate for integration into curriculum, especially for introductory courses.\nInterest in ethical usage of generative AI and understanding its underlying logic.\nAim to connect AI tools across disciplines and ensure accessibility.\nDesire to understand and improve the impact of AI on student engagement and learning outcomes.\nExplore pedagogical best practices for classroom AI integration.\n\nSpecific Goals for This Learning Circle\n\nCreate a toolkit for AI integration, including course shells, syllabi, and sample activities.\nDevelop frameworks or criteria for when and how to use AI in coursework.\nSupport institutional sharing by preparing material for broader faculty adoption.\nGather tools and ideas to support faculty across different schools and disciplines.\n\nTeaching Enhancements\n\nEnhance student engagement and equip them with decision-making skills on when to use AI.\nLearn practical strategies from peers for classroom AI usage and support accessibility.\nImprove structured AI integration into lectures, activities, and assignments.\nIncrease confidence and effectiveness in teaching with AI.\n\nScholarship Enhancements\n\nLeverage the experience to support scholarly communication and faculty collaboration.\nUse the knowledge to better support faculty and student understanding of AI methods.\nPotential use of AI for creative endeavors, even if not current research focus.\nBuild confidence in articulating practical implications of AI in education.\n\nService Enhancements\n\nContribute to institutional initiatives like “AI Across the Curriculum.”\nFacilitate collaboration between different campuses and programs.\nEngage faculty and help shape the broader institutional understanding and application of AI.\nProvide concrete case scenarios to support assessment frameworks for AI learning outcomes.\n\n\n\n\n\n\n…"
-  },
-  {
-    "objectID": "ai-learning-circle/index.html#weekly-topics",
-    "href": "ai-learning-circle/index.html#weekly-topics",
-    "title": "🤖 AI Learning Circle",
-    "section": "",
-    "text": "Week\nTopic\nMaterial\n\n\n\n\n1\nIntroduction\noutline | slides\n\n\n2\nPrompt Engineering and Integration Brainstorming\noutline | slides\n\n\n3\n\n\n\n\n4\n\n\n\n\n5\n\n\n\n\n6"
-  },
-  {
-    "objectID": "ai-learning-circle/index.html#objectives",
-    "href": "ai-learning-circle/index.html#objectives",
-    "title": "🤖 AI Learning Circle",
-    "section": "",
-    "text": "Learning Objectives\n\nDesire to identify and evaluate AI tools appropriate for integration into curriculum, especially for introductory courses.\nInterest in ethical usage of generative AI and understanding its underlying logic.\nAim to connect AI tools across disciplines and ensure accessibility.\nDesire to understand and improve the impact of AI on student engagement and learning outcomes.\nExplore pedagogical best practices for classroom AI integration.\n\nSpecific Goals for This Learning Circle\n\nCreate a toolkit for AI integration, including course shells, syllabi, and sample activities.\nDevelop frameworks or criteria for when and how to use AI in coursework.\nSupport institutional sharing by preparing material for broader faculty adoption.\nGather tools and ideas to support faculty across different schools and disciplines.\n\nTeaching Enhancements\n\nEnhance student engagement and equip them with decision-making skills on when to use AI.\nLearn practical strategies from peers for classroom AI usage and support accessibility.\nImprove structured AI integration into lectures, activities, and assignments.\nIncrease confidence and effectiveness in teaching with AI.\n\nScholarship Enhancements\n\nLeverage the experience to support scholarly communication and faculty collaboration.\nUse the knowledge to better support faculty and student understanding of AI methods.\nPotential use of AI for creative endeavors, even if not current research focus.\nBuild confidence in articulating practical implications of AI in education.\n\nService Enhancements\n\nContribute to institutional initiatives like “AI Across the Curriculum.”\nFacilitate collaboration between different campuses and programs.\nEngage faculty and help shape the broader institutional understanding and application of AI.\nProvide concrete case scenarios to support assessment frameworks for AI learning outcomes."
-  },
-  {
-    "objectID": "ai-learning-circle/index.html#resourceslinks",
-    "href": "ai-learning-circle/index.html#resourceslinks",
-    "title": "🤖 AI Learning Circle",
-    "section": "",
-    "text": "…"
   }
 ]

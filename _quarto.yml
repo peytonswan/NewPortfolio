@@ -6,16 +6,12 @@ extensions:
   - path: _extensions/grantmcdermott/clean/_extension.yml
 
 website:
-  title: "🥼 RESEARCH"
+  title: "Peyton Swan's Project"
   bread-crumbs: true
   navbar:
     right:
-      - href: ai-learning-circle/index.qmd
-        text: 🤖 AI Learning Circle
       - href: projects/index.qmd
         text: 📂 Projects
-      - href: https://lpcordova.com
-        text: ← LPCORDOVA
 
 
 format:
@@ -28,14 +24,7 @@ format:
   clean-revealjs:
     self-contained: true
     toc: true
-  # revealjs:
-  #   themes: 
-  #     - clean.scss
-  #     - default
-  #   highlight-style: github
-  #   incremental: true
-  #   # css: styles/base.scss
-  #   toc: true
+
 
 
 filters:
