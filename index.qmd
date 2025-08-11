@@ -1,7 +1,7 @@
 ---
 title: "Peyton Swan"
 subtitle: "Data Science and Computer Science Professional"
-image: profile.png
+image: picture.png
 about:
   id: hero-heading
   template: trestles
@@ -14,9 +14,3 @@ about:
       text: Github
       href: https://github.com/LucasCordova
 ---
-
-::: {#hero-heading}
-
-CHANGE ME
-:::
-

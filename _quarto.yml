@@ -1,32 +1,22 @@
 project:
   type: website
-  output-dir: _site
-
-extensions:
-  - path: _extensions/grantmcdermott/clean/_extension.yml
 
 website:
-  title: "Peyton Swan's Project"
-  bread-crumbs: true
+  image: picture.png
+  title: "Port"
   navbar:
-    right:
+    left:
+      - href: index.qmd
+        text: Home
       - href: projects/index.qmd
-        text: 📂 Projects
-
+        text: Projects
+      - about.qmd
 
 format:
   html:
     theme: sketchy
-    css: styles/base.scss
-    toc: true
-    highlight-style: github
-    breadcrumbs: true
-  clean-revealjs:
-    self-contained: true
+    css: styles.css
     toc: true
 
 
 
-filters:
-  - filters/global/reveal-tweaks.lua
-  - filters/global/speaker-notes.lua
