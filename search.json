@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "projects/pedalogical.html",
+    "href": "projects/pedalogical.html",
+    "title": "Pedalogical",
+    "section": "",
+    "text": "Pedalogical is a research initiative I am leading at Willamette University, aimed at transforming the way we personalize education through artificial intelligence. Developed in collaboration with undergraduate and graduate students, Pedalogical leverages generative AI to create individualized learning experiences that are adaptive, scalable, and pedagogically sound.\nPedalogical is part of my broader research mission to advance computing education, interdisciplinary technology development, and ethical AI integration.\n\n\nThe core idea behind Pedalogical is simple but powerful:\n&gt; Use AI to dynamically generate assignments, explanations, and feedback based on each student’s unique knowledge and comprehension level.\nOur system integrates OpenAI’s GPT-4 models to assess students’ understanding and produce customized educational materials tailored to their progress and needs.\nPedalogical is designed to:\n\nEnhance student engagement by meeting learners where they are.\nAlleviate instructor workload by automating parts of the content creation process.\nPromote deeper learning through individualized scaffolding and inquiry-based prompts.\n\n\n\n\n\nPersonalized Assignments:\nEach student receives tasks that reflect their individual strengths and areas for growth, moving beyond a “one-size-fits-all” model.\nDynamic Explanations:\nExplanations adapt based on student responses and prior performance, helping students build conceptual understanding step-by-step.\nInstructor Insights:\nAggregate analytics offer instructors a clearer view of class-wide comprehension trends without overwhelming them with manual grading.\nEthical and Responsible AI Use:\nWe emphasize human-centered AI design principles, ensuring transparency, fairness, and respect for student autonomy.\n\n\n\n\nMy students were recognized at the 2025 Murdock College Science Research Conference, where they won a Poster Prize in the Neuroscience–Psychology–Exercise Science category for their work on Pedalogical.\nOur interdisciplinary team demonstrated that AI can meaningfully enhance education when thoughtfully integrated with pedagogy.\n\n\n\n\nExpanding Content Domains: Moving beyond computing education into other fields such as biology, environmental science, and writing.\nAdaptive Feedback Loops: Developing real-time conversational tutoring agents that scaffold inquiry-based learning.\nOpen-Source Framework: Planning to release a toolkit for educators to customize and deploy their own versions of Pedalogical.\n\n\n\n\n\nWillamette University News Article on Pedalogical"
+  },
+  {
+    "objectID": "projects/pedalogical.html#project-overview",
+    "href": "projects/pedalogical.html#project-overview",
+    "title": "Pedalogical",
+    "section": "",
+    "text": "The core idea behind Pedalogical is simple but powerful:\n&gt; Use AI to dynamically generate assignments, explanations, and feedback based on each student’s unique knowledge and comprehension level.\nOur system integrates OpenAI’s GPT-4 models to assess students’ understanding and produce customized educational materials tailored to their progress and needs.\nPedalogical is designed to:\n\nEnhance student engagement by meeting learners where they are.\nAlleviate instructor workload by automating parts of the content creation process.\nPromote deeper learning through individualized scaffolding and inquiry-based prompts."
+  },
+  {
+    "objectID": "projects/pedalogical.html#key-features",
+    "href": "projects/pedalogical.html#key-features",
+    "title": "Pedalogical",
+    "section": "",
+    "text": "Personalized Assignments:\nEach student receives tasks that reflect their individual strengths and areas for growth, moving beyond a “one-size-fits-all” model.\nDynamic Explanations:\nExplanations adapt based on student responses and prior performance, helping students build conceptual understanding step-by-step.\nInstructor Insights:\nAggregate analytics offer instructors a clearer view of class-wide comprehension trends without overwhelming them with manual grading.\nEthical and Responsible AI Use:\nWe emphasize human-centered AI design principles, ensuring transparency, fairness, and respect for student autonomy."
+  },
+  {
+    "objectID": "projects/pedalogical.html#outcomes-and-recognition",
+    "href": "projects/pedalogical.html#outcomes-and-recognition",
+    "title": "Pedalogical",
+    "section": "",
+    "text": "My students were recognized at the 2025 Murdock College Science Research Conference, where they won a Poster Prize in the Neuroscience–Psychology–Exercise Science category for their work on Pedalogical.\nOur interdisciplinary team demonstrated that AI can meaningfully enhance education when thoughtfully integrated with pedagogy."
+  },
+  {
+    "objectID": "projects/pedalogical.html#future-directions",
+    "href": "projects/pedalogical.html#future-directions",
+    "title": "Pedalogical",
+    "section": "",
+    "text": "Expanding Content Domains: Moving beyond computing education into other fields such as biology, environmental science, and writing.\nAdaptive Feedback Loops: Developing real-time conversational tutoring agents that scaffold inquiry-based learning.\nOpen-Source Framework: Planning to release a toolkit for educators to customize and deploy their own versions of Pedalogical."
+  },
+  {
+    "objectID": "projects/pedalogical.html#learn-more",
+    "href": "projects/pedalogical.html#learn-more",
+    "title": "Pedalogical",
+    "section": "",
+    "text": "Willamette University News Article on Pedalogical"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Pedalogical is an AI-driven initiative that personalizes education by dynamically generating assignments based on each student’s comprehension.\nDeveloped collaboratively with undergraduate students at Willamette University, it leverages generative AI to enhance learning and reduce instructor workload.\n➡️ Learn more about Pedalogical"
+  },
+  {
+    "objectID": "projects/index.html#pedalogical-reimagining-education-with-ai",
+    "href": "projects/index.html#pedalogical-reimagining-education-with-ai",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Pedalogical is an AI-driven initiative that personalizes education by dynamically generating assignments based on each student’s comprehension.\nDeveloped collaboratively with undergraduate students at Willamette University, it leverages generative AI to enhance learning and reduce instructor workload.\n➡️ Learn more about Pedalogical"
+  }
+]
